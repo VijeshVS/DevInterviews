@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/VijeshVS/backend-dev-interview
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/VijeshVS/DevInterviews_Frontend
